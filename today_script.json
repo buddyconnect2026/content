@@ -1,314 +1,473 @@
 {
   "meta": {
-    "topic": "AI technology 2026",
-    "angle": "whether this is actually as big as people are saying",
+    "topic": "photography",
+    "angle": "a simple and clear way of looking at this situation",
     "date": "2026-04-01",
-    "generated_at": "2026-04-01T07:22:36.104936",
-    "category": "tech",
+    "generated_at": "2026-04-01T08:08:17.266968",
+    "category": "news",
     "news_context": [
-      "Role of humans in teaching stressed as AI evolves",
-      "Anthropic Partners with Australia for AI Economic Insights",
-      "Mobavenue AI Tech Limited Dispatches Postal Ballot Notice for Share Subdivision and MOA Amendments",
-      "Nvidia and Marvell Form $2B AI Alliance｜Daily News Digest｜2026-04-01｜web only",
-      "China, US shaping 'complementary competition' in AI"
+      "Multiple blasts heard in Burundi's Bujumbura",
+      "Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’",
+      "The top photos of the day by AP's photojournalists",
+      "In Photos: PM Modi inaugurates Samrat Samprati Museum, dedicated to Jain heritage, in Gujarat",
+      "Today’s Hot Shot: April 1, 2026"
     ],
     "default_lang": "English"
   },
   "confidence": [
     {
       "label": "Hook Strength",
-      "value": "High — tech curiosity is universal"
+      "value": "High — current topic, clear angle"
     },
     {
       "label": "Engagement Potential",
-      "value": "Very High — tech audiences are active"
+      "value": "High — people share news breakdowns"
     },
     {
       "label": "Content Safety",
-      "value": "Very High — factual and balanced"
+      "value": "High — informative, not inflammatory"
     },
     {
       "label": "Growth Potential",
-      "value": "Very Strong — evergreen + trending mix"
+      "value": "Strong — news drives discoverability"
     }
   ],
   "seo": {
     "title_options": [
-      "Ai Technology 2026 Explained Simply — What You Actually Need To Know",
-      "Is Ai Technology 2026 Really That Big A Deal? My Honest Take",
-      "Ai Technology 2026 — Beyond The Hype"
+      "Photography Simply Explained — What It Means For You",
+      "Understanding Photography: A Regular Person's Take",
+      "Photography — The Part That Actually Matters"
     ],
-    "comment_question": "Have you actually tried AI technology 2026 yet? What was your experience? Tell me in the comments.",
+    "comment_question": "What's your take on photography? Is there a part of the story you think is being missed? Let me know below.",
     "tags": [
-      "AI technology 2026",
-      "tech explained",
-      "technology",
-      "tech news",
-      "AI",
-      "gadgets",
-      "tech for beginners",
-      "simple tech",
-      "honest tech review",
-      "tech breakdown",
-      "digital life",
-      "future tech",
-      "tech tips",
-      "innovation",
-      "tech update"
+      "photography",
+      "news explained",
+      "current events",
+      "world news",
+      "Multiple blasts heard in Burundi's Bujum",
+      "news breakdown",
+      "simple explanation",
+      "regular person",
+      "honest take",
+      "India news",
+      "global news",
+      "news analysis",
+      "what's happening",
+      "updates",
+      "explained"
     ],
     "hashtags": [
-      "#TechExplained",
-      "#Technology",
-      "#TechNews",
-      "#AIExplained",
-      "#TechForEveryone",
-      "#Innovation",
-      "#DigitalLife",
-      "#TechTips"
+      "#NewsExplained",
+      "#CurrentEvents",
+      "#WorldNews",
+      "#HonestTake",
+      "#SimpleExplanation",
+      "#StayInformed",
+      "#IndiaNews",
+      "#NewsBreakdown"
     ],
-    "thumbnail_text": "Is Ai Technology 2026 really worth it? (honest answer)",
-    "description_start": "In this video I'm talking about AI technology 2026 — not the expert version, not the headline version, just an honest, straightforward conversation about whether this is actually as big as people are saying. If you've been looking for a simple, real take on this — this is it.\n\n00:00 Hook\n00:30 What's actually happening\n01:30 Why it matters\n03:00 My honest take\n04:00 Key takeaway\n04:30 Wrap up\n\nDrop a comment below — Have you actually tried AI technology 2026 yet? What was your experience? Tell me in the comments."
+    "thumbnail_text": "What Photography actually means for YOU",
+    "description_start": "In this video I'm talking about photography — not the expert version, not the headline version, just an honest, straightforward conversation about a simple and clear way of looking at this situation. If you've been looking for a simple, real take on this — this is it.\n\n00:00 Hook\n00:30 What's actually happening\n01:30 Why it matters\n03:00 My honest take\n04:00 Key takeaway\n04:30 Wrap up\n\nDrop a comment below — What's your take on photography? Is there a part of the story you think is being missed? Let me know below.",
+    "chapters": "00:00 Hook\n00:30 What's actually happening\n01:30 Why it matters\n03:00 My honest take\n04:00 Key takeaway\n04:30 Wrap up",
+    "ai_disclosure": "This video was developed with AI-assisted scripting. All opinions and experiences are the creator's own.",
+    "community_post": {
+      "English": "photography is getting a lot of attention. But what do you think actually matters here for regular people?\n\nNew video today. Comment your honest take 👇",
+      "Tamil": "photography நிறைய attention கிடைக்குது. ஆனா regular people-க்கு actually matter பண்றது என்னன்னு நினைக்கீங்க?\n\nNew video today. Honest take comment பண்ணுங்க 👇",
+      "Telugu": "photography గురించి quick question — coverage లో miss అవుతున్న part ఏమిటని మీరు అనుకుంటున్నారు?\n\nSimple breakdown video today. మీ take చెప్పండి 👇"
+    },
+    "platform_adaptations": {
+      "instagram": {
+        "caption_hook": "The simple version of photography that nobody gave you. 📌",
+        "reels_hook": "Everyone's talking about photography. But here's what actually matters.",
+        "note": "Post Reel within 24h of YouTube upload. Use thumbnail text as video overlay."
+      },
+      "linkedin": {
+        "post_hook": "photography is getting a lot of coverage. The part with the most practical relevance for people in business: a simple and clear way of looking at this situation.",
+        "note": "Text-only post works best. Add 2 short paragraphs after the hook. No hashtag spam."
+      }
+    }
   },
   "languages": {
     "English": {
-      "title": "Ai Technology 2026 Simply Explained",
-      "hook": "I've been looking into AI technology 2026 today — 2026-04-01 — and I want to give you the version I wish I'd found when I started looking. Not the hype version. Not the doom version. Just the clear, honest picture.",
+      "title": "My Honest Take On Photography",
+      "hook": "So photography. I've been reading about this and honestly — there's a lot being said but very little that actually makes sense to a normal person. So let me just give you my plain, honest take on it.",
+      "hook_variants": [
+        "So photography. I've been reading about this and honestly — there's a lot being said but very little that actually makes sense to a normal person. So let me just give you my plain, honest take on it.",
+        "Okay so photography — it's everywhere right now. And I get that. But I keep feeling like the conversation happening in the media and the conversation happening in real life are two completely different things. So let me just bridge that gap a little.",
+        "photography. I know you've seen a lot of takes on this already. Expert opinions, political commentary, hot takes — all of it. But what about just a regular person's view? Someone who's not trying to make a point or win an argument? That's what this is.",
+        "I was just going through my news feed today — 2026-04-01 — and photography keeps coming up everywhere. And I thought, you know what, let me just talk about this the way I would to a friend. No spin. No agenda. Just what I actually think."
+      ],
+      "retention_hooks": {
+        "at_30pct": "This next bit is actually the most important part of the whole story.",
+        "at_50pct": "Keep watching — because what actually matters to regular people is coming next."
+      },
       "scenes": [
         {
-          "name": "Hook Setup",
-          "time": "0:00 – 0:30",
-          "direction": "Casual start. No dramatic music needed. Just you talking clearly.",
-          "dialogue": "Okay so I want to talk about AI technology 2026. And I want to skip past all the hype for a second because I think there's a really clear, useful version of this story that isn't getting told very well. So that's what I'm going to do — just explain what this actually is, why people are talking about it, and honestly, what you actually need to know about it right now."
+          "name": "Start",
+          "time": "0:00 – 0:45",
+          "direction": "No intro, no music, no title card. Just start talking, mid-thought, like the conversation has already been going.",
+          "dialogue": "So photography. I've been following this for a few days now and honestly, the more I read, the more I feel like most of the coverage is missing the thing that actually matters to normal people. Not the political angle. Not the expert analysis. Just — what does this actually mean for people going about their daily lives? And I thought, let me just sit down and talk about this the way I would to anyone who asked me. No big claims. Just my honest read on it.",
+          "broll": [
+            "Scrolling phone — no face visible",
+            "Coffee and phone flat lay",
+            "Window view, city or nature background"
+          ]
         },
         {
-          "name": "What It Actually Is",
-          "time": "0:30 – 1:30",
-          "direction": "Lean in. You're explaining something clearly. Imagine your smartest non-technical friend is listening.",
-          "dialogue": "So at its core, AI technology 2026 is — Role of humans in teaching stressed as AI evolves. And I know that might sound technical but stick with me here because once you see the basic idea, the rest of it actually makes sense. The way I like to think about it is this: it's basically solving a problem that existed before but in a way that's significantly faster, more accurate, or more accessible than what came before. That's usually what's actually new. Not magic — just a meaningful improvement on something that already existed."
+          "name": "What People Think",
+          "time": "0:45 – 2:00",
+          "direction": "Conversational. Like you're catching a friend up on something that happened and telling them what everyone's been saying about it.",
+          "dialogue": "So the thing with photography is — most people in the news are having one conversation, and most normal people are having a completely different one. In the news it's all about Multiple blasts heard in Burundi's Bujumbura. And that's a real thing, that matters, I'm not dismissing it. But when I talk to people around me — friends, family, people on the street — what they're actually worried about is something different. They're worried about how this lands in their daily life. In their pocket. In their neighbourhood. In their kid's school. And those two conversations are barely overlapping right now.",
+          "broll": [
+            "Hands gesturing while talking, no face",
+            "Notebook with notes visible",
+            "Phone screen close-up"
+          ]
         },
         {
-          "name": "Why It Matters Now",
-          "time": "1:30 – 3:00",
-          "direction": "More thoughtful here. This is the part where the bigger picture lands.",
-          "dialogue": "The reason AI technology 2026 matters right now — and not just as an interesting thing to read about — is that Anthropic Partners with Australia for AI Economic Insights. This is the part that doesn't make it into most coverage because it's less dramatic than the big claims. But it's the part that actually affects how people use their time, do their work, or spend their money. And those practical consequences are usually what matter most to regular people."
+          "name": "Real-World Insight",
+          "time": "2:00 – 3:30",
+          "direction": "Slower pace. Like you're thinking it through as you talk — because you are. Let it breathe.",
+          "dialogue": "Because here's the thing that I think is actually important about photography — Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’. And I feel like most people scroll past this part. This is the bit that's buried in paragraph seven of every article, after all the dramatic stuff at the top. But this is the part that actually changes things on the ground. For regular people. Not the political fallout. Not the who-said-what. This specific thing. And the reason I keep coming back to it is that it's the part with actual consequences for how people live. And that should be the story. But it's not getting the space it deserves.",
+          "broll": [
+            "Slower hand gestures, thoughtful pace",
+            "Overhead desk — phone, notes, coffee",
+            "Typing or scrolling, voice over"
+          ]
         },
         {
-          "name": "Honest Assessment",
-          "time": "3:00 – 4:00",
-          "direction": "Direct. Your actual read on this — what's real vs overhyped.",
-          "dialogue": "If I had to summarise my read on AI technology 2026 honestly — it's genuinely significant but not in the apocalyptic or utopian way it's often framed. What's actually true is that whether this is actually as big as people are saying. And I think that realistic framing is more useful than the extremes, because it helps you engage with it intelligently rather than either panic-buying in or completely ignoring it. Both extremes usually lead to worse decisions than just understanding the thing clearly."
+          "name": "Personal Take",
+          "time": "3:30 – 4:30",
+          "direction": "Talk like you're telling a friend what you genuinely believe, after having thought about it properly.",
+          "dialogue": "And my honest take on photography — and I want to be clear this is just my read, I could be wrong — is that this matters way more to normal people than the coverage suggests. Like, the stuff that actually affects how people pay their bills, feed their family, feel safe in their city — that's the story. And right now that story is getting drowned out by the louder, more dramatic version of events. And I think that's a real problem. Because when people can't connect the news to their actual life, they stop paying attention. And then they stop participating. And that's when things really go sideways.",
+          "broll": [
+            "Direct camera, sitting back slightly",
+            "Any neutral indoor background",
+            "Hands folded on desk"
+          ]
         },
         {
-          "name": "Quick Takeaway",
-          "time": "4:00 – 4:30",
-          "direction": "Simple and clear. One or two things they can actually use.",
-          "dialogue": "The quick version of everything I just said about AI technology 2026: it's genuinely moving, the realistic timeline is longer than headlines suggest, and the thing most worth paying attention to is whether this is actually as big as people are saying. You don't have to become an expert in this. You just have to understand it well enough to recognise when it becomes relevant to your actual life. And that threshold is lower than most people think."
+          "name": "Small Moment",
+          "time": "4:30 – 5:00",
+          "direction": "Simple and honest. Like you're thinking out loud at the end of the conversation.",
+          "dialogue": "I'll be honest — I don't know exactly how photography is going to play out. Nobody does, really, even if they act like they do. But I do know that the gap between what's being covered and what's actually happening in people's lives is real. And I think the most honest thing any of us can do right now is just — stay curious. Keep asking the simple questions. Not just absorb whatever the loudest voice is saying.",
+          "broll": [
+            "Still. Pause. Let it land.",
+            "Looking slightly off-camera",
+            "Empty desk, voice only"
+          ]
         },
         {
           "name": "Ending",
-          "time": "4:30 – 5:00",
-          "direction": "Look at the camera. Easy close. Like wrapping up a good conversation.",
-          "dialogue": "Anyway — that's my honest breakdown of AI technology 2026. Not an expert take, just someone who spent time reading past the headlines and wanted to share what actually made sense. If this was useful, subscribe — I do this kind of plain-language breakdown regularly. And drop a comment: what part of AI technology 2026 did you want more detail on? I actually use those to plan what I cover next."
+          "time": "5:00 – 5:30",
+          "direction": "Look at the camera. Warm and simple. No dramatic close.",
+          "dialogue": "Anyway. That's my honest take on photography. Not an expert opinion. Just a regular person trying to make sense of something. If you see it differently — leave a comment, I genuinely want to read your perspective. If this kind of straightforward coverage is useful to you, subscribe so you don't miss the next one. See you then.",
+          "broll": [
+            "Back to relaxed opening setup",
+            "Phone face-down, putting it down",
+            "Warm simple close"
+          ]
         }
       ],
+      "shorts": {
+        "hook": "photography. Here's the part nobody's explaining simply.",
+        "core": "With photography — the part getting missed in most coverage is this: a simple and clear way of looking at this situation. And that's the part that actually affects real people's lives.",
+        "cta": "Follow for more honest content like this. And drop a comment — are you dealing with photography too?",
+        "note": "Shoot vertical 9:16. 60 seconds max. Hook must land in first 2 seconds. No slow intro."
+      },
       "talking_lines": [
-        "The realistic timeline on AI technology 2026 is less dramatic than the coverage suggests — and that's okay.",
-        "Role of humans in teaching stressed as AI evolves — that's the part that's actually moving things forward right now.",
-        "I'm not an expert. Just someone who read past the headline and wants to share what I found.",
-        "whether this is actually as big as people are saying — once you see that, you can't unsee it.",
-        "Technology is most useful when it quietly makes something easier. AI technology 2026 does that.",
-        "Understanding something well enough to know if it affects you is actually all most people need.",
-        "Everyone's talking about AI technology 2026. But most explanations skip the part that actually matters.",
-        "The practical version of AI technology 2026 is more interesting than the theoretical one.",
-        "Once you understand whether this is actually as big as people are saying, the whole picture makes a lot more sense.",
-        "The most useful question with any new tech is — what problem does it actually solve?"
+        "I'm not an expert. I'm just a normal person who's been paying attention. And sometimes that's enough.",
+        "Everyone's talking about photography. But nobody's just explaining it simply — and that matters.",
+        "With photography, the real story is usually in the quiet details, not the loud headlines.",
+        "The stuff that affects real people's lives is always in paragraph seven. Never the headline.",
+        "Stay curious. Keep asking the basic questions. Don't just absorb the loudest take.",
+        "Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’ — that's the part that actually changes things for normal people.",
+        "The people most affected by photography are probably the ones least likely to be on camera talking about it.",
+        "People are reacting. But not everyone is actually understanding. And that gap matters.",
+        "The political version of this story and the human version are two completely different things.",
+        "I just wanted to talk about this simply. Because simple is what's missing."
       ],
       "no_face": [
         {
           "scene": "Scene 1",
-          "tip": "Phone or tablet propped up. Voice narrating. Screen visible if relevant."
+          "tip": "Sit at a desk. Hands visible. Voice only — no face needed."
         },
         {
           "scene": "Scene 2",
-          "tip": "Slow pan across a clean desk setup — monitor, keyboard, notebook."
+          "tip": "Slow pan of a newspaper, phone screen showing headlines, or a map."
         },
         {
           "scene": "Scene 3",
-          "tip": "Hands pointing at or scrolling through relevant UI or interface."
+          "tip": "Walking shot outdoors or in a corridor. Voice over the footage."
         },
         {
           "scene": "Scene 4",
-          "tip": "Overhead desk shot with device in frame. Clean and minimal."
+          "tip": "A window view. City street or sky. Simple and neutral."
         },
         {
           "scene": "Scene 5",
-          "tip": "One still — a glowing screen in a dark room. No face needed."
+          "tip": "Hold on a still image or graphic — just ambient sound underneath."
         },
         {
           "scene": "Scene 6",
-          "tip": "Voice over a slow pan of any tech surface. Simple and clean."
+          "tip": "Back to desk setup. Simple close. Same visual as Scene 1."
         }
-      ]
+      ],
+      "end_screen_line": "I put up a video recently that pairs really well with this — it's right here. Worth watching back to back."
     },
     "Tamil": {
-      "title": "Ai Technology 2026 — Actually என்னன்னு பாக்கலாம்",
-      "hook": "So AI technology 2026 everywhere இருக்கு right now. Two reactions பாக்குறேன் — 'இது எல்லாத்தையும் change பண்ணும்' னு சொல்றவங்க, completely tune out பண்ணவங்க. More honest version இருக்கு middle-ல. Let me share it.",
+      "title": "Simply Pesalama: Photography",
+      "hook": "So photography — இதை பத்தி பேசணும்னு நிறைய நாளா இருந்தேன். News-ல நிறைய இருக்கு. ஆனா normal person-ஆ simply யாரும் explain பண்றதில்ல. So let me try to do that.",
+      "hook_variants": [
+        "So photography — இதை பத்தி பேசணும்னு நிறைய நாளா இருந்தேன். News-ல நிறைய இருக்கு. ஆனா normal person-ஆ simply யாரும் explain பண்றதில்ல. So let me try to do that.",
+        "Okay so photography. இது everywhere இருக்கு right now. ஆனா media-ல நடக்குற conversation-உம் real life-ல நடக்குற conversation-உம் completely different-ஆ இருக்கு. That gap-ஐ bridge பண்ண try பண்றேன்.",
+        "photography பத்தி நிறைய takes வருது. Expert opinions, political commentary — எல்லாமே. ஆனா just a regular person-ஓட view? Agenda இல்லாம, argument win பண்ண try பண்ணாம? That's what this is.",
+        "இன்னிக்கு — 2026-04-01 — news feed திறந்தேன். photography everywhere. நான் நினைச்சேன் — friend-கிட்ட பேசுவது மாதிரி இதை talk பண்ணலாம். No spin. No agenda. என்னோட actual thoughts மட்டும்."
+      ],
+      "retention_hooks": {
+        "at_30pct": "இந்த next bit — whole story-ல most important part இது.",
+        "at_50pct": "Watch பண்றீங்களா — regular people-க்கு actually matter பண்றது next-ல வருது."
+      },
       "scenes": [
         {
-          "name": "Hook Setup",
-          "time": "0:00 – 0:30",
-          "direction": "Directly to camera. Relaxed. Friend-கிட்ட share பண்றது மாதிரி.",
-          "dialogue": "So AI technology 2026. நான் கொஞ்சம் actually படிச்சேன் — takes absorb பண்றதுக்கு பதிலா. And here's the thing — noise-ஐ கடந்தா, actually interesting and understandable. என்னோட goal — I wish I'd found this version first. Clear, honest, unnecessary jargon இல்ல."
+          "name": "Start",
+          "time": "0:00 – 0:45",
+          "direction": "Camera-கிட்ட directly பேசுங்க. Casual-ஆ, relaxed-ஆ. Friend-கிட்ட catch up பண்றது மாதிரி.",
+          "dialogue": "Okay so photography பத்தி பேசணும். And I want to do it the way nobody seems to be doing it right now — simply. நான் scroll பண்ணி நிறைய takes படிச்சேன், news pieces படிச்சேன் — none of it is answering the questions I actually have. Basic questions. Normal person கேக்குற questions. So let me try. Expert இல்ல நான். Just someone who's been paying attention. And sometimes that's actually enough.",
+          "broll": [
+            "Scrolling phone — no face visible",
+            "Coffee and phone flat lay",
+            "Window view, city or nature background"
+          ]
         },
         {
-          "name": "What It Actually Is",
-          "time": "0:30 – 1:30",
-          "direction": "Lean in. Clear-ஆ explain பண்றீங்க. Smart but non-technical friend கேக்குறது மாதிரி.",
-          "dialogue": "So AI technology 2026 என்னன்னா — Role of humans in teaching stressed as AI evolves. Technical-ஆ sound ஆகுதுன்னு தெரியும். ஆனா basic idea பாத்தா rest actually make sense ஆகுது. எப்படி நான் think பண்றேன்னா — ஒரு problem already existed, இது அதை significantly faster, more accurate or accessible-ஆ solve பண்றது. That's usually what's actually new. Magic இல்ல — meaningful improvement."
+          "name": "What People Think",
+          "time": "0:45 – 2:00",
+          "direction": "Conversational. Friend-கிட்ட நடந்தது சொல்வது மாதிரி.",
+          "dialogue": "photography பத்தி நான் keep noticing பண்றது என்னன்னா — loud version of the story இருக்கு — Multiple blasts heard in Burundi's Bujumbura. Big headlines, strong opinions, lots of noise. And then quiet version இருக்கு. யாரோ வீட்ல உட்கார்ந்து 'இது என்னோட life-ஐ actually எப்படி affect பண்றது?' அப்படி wonder பண்றது. And nobody is really speaking to that quiet version. அந்த conversation தான் நான் வேணும்னு நினைக்குறேன்.",
+          "broll": [
+            "Hands gesturing while talking, no face",
+            "Notebook with notes visible",
+            "Phone screen close-up"
+          ]
         },
         {
-          "name": "Why It Matters Now",
-          "time": "1:30 – 3:00",
-          "direction": "Slower. Connecting dots in real time.",
-          "dialogue": "AI technology 2026 இப்போ relevant-ஆ இருக்குறது ஏன்னா — Anthropic Partners with Australia for AI Economic Insights. இந்த part most coverage-ல miss ஆகுது — big claims-ஐ விட less dramatic. But this is the part that actually affects how people use their time, do work, or spend money. And those practical consequences matter most."
+          "name": "Real Thought",
+          "time": "2:00 – 3:30",
+          "direction": "Slower. Like you're thinking through it in real time.",
+          "dialogue": "photography பத்தி actually important-ஆ நான் நினைக்குறது — Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’. இந்த part-ஐ most people scroll பண்ணிட்டு போவாங்க. Every article-ல paragraph seven-ல buried-ஆ இருக்கு, dramatic stuff எல்லாம் முன்னாடி வச்சதுக்கு பிறகு. ஆனா இந்த part தான் ground level-ல things-ஐ change பண்றது. Regular people-க்கு. Political fallout இல்ல. Who-said-what இல்ல. This specific thing. And அதுக்கு space கிடைக்கல. That should be the story. But it's not.",
+          "broll": [
+            "Slower hand gestures, thoughtful pace",
+            "Overhead desk — phone, notes, coffee",
+            "Typing or scrolling, voice over"
+          ]
         },
         {
-          "name": "Honest Assessment",
-          "time": "3:00 – 4:00",
-          "direction": "Direct. What's real vs what's overhyped.",
-          "dialogue": "AI technology 2026 பத்தி நான் honestly summarise பண்ணா — genuinely significant, ஆனா apocalyptic or utopian-ஆ often frame ஆகுறது மாதிரி இல்ல. Actually true என்னன்னா — whether this is actually as big as people are saying. And that realistic framing is more useful than the extremes."
+          "name": "Personal Take",
+          "time": "3:30 – 4:30",
+          "direction": "Friend-கிட்ட properly யோசிச்சதுக்கு பிறகு சொல்வது மாதிரி.",
+          "dialogue": "என்னோட genuine take — photography பத்தி. Most affected people probably microphone-கிட்ட இல்லாதவங்க right now. Quietly deal பண்ணுவாங்க — யாரும் actually எப்படி land ஆச்சுன்னு கேக்காம. And I think அதை notice பண்றதுதான் most useful thing. Camera-ல good-ஆ sound ஆகுற version இல்ல. Real-ஆ இருக்குற version. And right now — Multiple blasts heard in Burundi's Bujumbura — that's real. That affects people. And it deserves more honest attention.",
+          "broll": [
+            "Direct camera, sitting back slightly",
+            "Any neutral indoor background",
+            "Hands folded on desk"
+          ]
         },
         {
-          "name": "Quick Takeaway",
-          "time": "4:00 – 4:30",
-          "direction": "Practical. Not a lecture.",
-          "dialogue": "AI technology 2026 பத்தி actually know பண்ணணும்னு distil பண்ணா — சில things. One: real, track பண்ணணும். Two: hype இல்ல, everyday contexts-ல appear ஆகுற actual use cases-ஐ follow பண்ணுங்க. Three: whether this is actually as big as people are saying. Last point usually left out — but most practically relevant."
+          "name": "Small Moment",
+          "time": "4:30 – 5:00",
+          "direction": "Simple and honest.",
+          "dialogue": "photography — இதை யோசிக்கும்போது, நிறைய noise இருக்கு. Hot takes. Confident explanations. And somewhere underneath எல்லாத்துக்கும் கீழே — real people-ஐ real-ஆ affect பண்றது. That's worth pausing on. Not as a political statement. Just as a human one.",
+          "broll": [
+            "Still. Pause. Let it land.",
+            "Looking slightly off-camera",
+            "Empty desk, voice only"
+          ]
         },
         {
           "name": "Ending",
-          "time": "4:30 – 5:00",
-          "direction": "Warm and direct. Invite them in.",
-          "dialogue": "AI technology 2026 பத்தி real version இது — today நான் understand பண்ணதுக்கு. Helped-ஆ இருந்தா like பண்ணுங்க — genuinely more people-க்கு reach ஆக help பண்றது. Different read இருந்தா or follow-up question இருந்தா — comments-ல drop பண்ணுங்க. See you in the next one."
+          "time": "5:00 – 5:30",
+          "direction": "Camera-கிட்ட பாருங்க. Warm-ஆ, simple-ஆ.",
+          "dialogue": "photography பத்தி இன்னிக்கு இது தான். Simple take. Real perspective. Useful-ஆ இருந்தா like பண்ணுங்க — more people-க்கு reach ஆக help பண்றது. Coverage-ல miss ஆகுதுன்னு நீங்க நினைக்குற part இருந்தா comment-ல சொல்லுங்க. Take care.",
+          "broll": [
+            "Back to relaxed opening setup",
+            "Phone face-down, putting it down",
+            "Warm simple close"
+          ]
         }
       ],
+      "shorts": {
+        "hook": "photography — simply explain பண்ணவே யாரும் இல்ல.",
+        "core": "photography simple version: a simple and clear way of looking at this situation. மற்றதெல்லாம் noise. இதுதான் understand பண்ண worth.",
+        "cta": "இது மாதிரி content-க்கு follow பண்ணுங்க. Comment பண்ணுங்க — photography உங்களுக்கும் இருக்கா?",
+        "note": "Shoot vertical 9:16. 60 seconds max. Hook must land in first 2 seconds. No slow intro."
+      },
       "talking_lines": [
-        "AI technology 2026 பத்தி everybody பேசுறாங்க. ஆனா actually matter பண்ற part-ஐ most explanations skip பண்றது.",
-        "AI technology 2026-ஓட hype version-உம் real version-உம் pretty different things.",
-        "whether this is actually as big as people are saying — அது ஒரு தடவை பாத்தா, unsee பண்ண முடியாது.",
-        "whether this is actually as big as people are saying புரிஞ்சா — whole picture makes a lot more sense.",
-        "Any new tech-ல most useful question — actually என்ன problem solve பண்றதுன்னு.",
-        "Ignore பண்ணாதீங்க, panic ஆகாதீங்க. Just understand it. That's enough.",
-        "AI technology 2026-ஓட realistic timeline — coverage suggest-ஐ விட less dramatic. And that's okay.",
-        "Technology most useful when quietly something easier பண்றது. AI technology 2026 does that.",
-        "AI technology 2026-ஓட practical version — theoretical version-ஐ விட more interesting.",
-        "Role of humans in teaching stressed as AI evolves — அதுதான் right now things-ஐ forward move பண்றது."
+        "Real people-ஐ affect பண்றது always paragraph seven-ல இருக்கு. Never the headline.",
+        "All answers என்கிட்ட இல்ல. But I have questions — and I think that counts.",
+        "Multiple blasts heard in Burundi's Bujumbura — அந்த part underreported-ஆ இருக்குன்னு நினைக்கிறேன்.",
+        "Simply பேசுறது — அதுதான் missing. அதுதான் நான் try பண்றது.",
+        "Curious-ஆ இருங்க. Basic questions கேளுங்க. Loudest take-ஐ மட்டும் absorb பண்ணாதீங்க.",
+        "photography பத்தி real story — loud headlines-ல இல்ல, quiet details-ல இருக்கு.",
+        "Most affected people probably camera-முன்னாடி இல்லாதவங்க.",
+        "நான் expert இல்ல. Just normal person paying attention. And sometimes that's enough.",
+        "Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’ — அது normal people-க்கு actually things-ஐ change பண்றது.",
+        "Political version of this story-உம் human version-உம் two different things."
       ],
       "no_face": [
         {
           "scene": "Scene 1",
-          "tip": "Phone or tablet propped up. Voice narrating. Screen visible if relevant."
+          "tip": "Sit at a desk. Hands visible. Voice only — no face needed."
         },
         {
           "scene": "Scene 2",
-          "tip": "Slow pan across a clean desk setup — monitor, keyboard, notebook."
+          "tip": "Slow pan of a newspaper, phone screen showing headlines, or a map."
         },
         {
           "scene": "Scene 3",
-          "tip": "Hands pointing at or scrolling through relevant UI or interface."
+          "tip": "Walking shot outdoors or in a corridor. Voice over the footage."
         },
         {
           "scene": "Scene 4",
-          "tip": "Overhead desk shot with device in frame. Clean and minimal."
+          "tip": "A window view. City street or sky. Simple and neutral."
         },
         {
           "scene": "Scene 5",
-          "tip": "One still — a glowing screen in a dark room. No face needed."
+          "tip": "Hold on a still image or graphic — just ambient sound underneath."
         },
         {
           "scene": "Scene 6",
-          "tip": "Voice over a slow pan of any tech surface. Simple and clean."
+          "tip": "Back to desk setup. Simple close. Same visual as Scene 1."
         }
-      ]
+      ],
+      "end_screen_line": "இந்த video-க்கு really well pair ஆகுற ஒரு video recent-ஆ போட்டேன் — இங்கே இருக்கு. Back to back பாக்க worth."
     },
     "Telugu": {
-      "title": "Simply అర్థమవుతుంది: Ai Technology 2026",
-      "hook": "AI technology 2026 గురించి నేను ఈ రోజు — 2026-04-01 — look into చేశాను. నేను కనుగొనాలని కోరుకున్న version ఇవ్వాలనుకుంటున్నాను. Hype version కాదు. Doom version కాదు. Just clear, honest picture.",
+      "title": "Photography Gurinchi Naa Honest Take",
+      "hook": "So photography — దీని గురించి మాట్లాడాలని చాలా రోజులు అనిపించింది. News లో చాలా ఉంది. కానీ normal person గా simply explain చేసే వాళ్ళు లేరు. So let me try to do that.",
+      "hook_variants": [
+        "So photography — దీని గురించి మాట్లాడాలని చాలా రోజులు అనిపించింది. News లో చాలా ఉంది. కానీ normal person గా simply explain చేసే వాళ్ళు లేరు. So let me try to do that.",
+        "Okay so photography. ఇది ఇప్పుడు everywhere ఉంది. కానీ media లో జరుగుతున్న conversation, real life లో జరుగుతున్న conversation completely different గా ఉన్నాయి. That gap bridge చేయడానికి try చేస్తాను.",
+        "photography గురించి చాలా takes వస్తున్నాయి. Expert opinions, political commentary — అన్నీ. కానీ just a regular person's view? Agenda లేకుండా? That's what this is.",
+        "ఈ రోజు — 2026-04-01 — news feed తెరిచాను. photography everywhere. నేను అనుకున్నాను — friend తో మాట్లాడినట్టు దీన్ని talk చేద్దాం. No spin. No agenda. నా actual thoughts మాత్రమే."
+      ],
+      "retention_hooks": {
+        "at_30pct": "ఈ part ని most news coverage completely skip చేస్తుంది.",
+        "at_50pct": "Watch చేయండి — regular people కి actually matter అయ్యేది next లో వస్తుంది."
+      },
       "scenes": [
         {
-          "name": "Hook Setup",
-          "time": "0:00 – 0:30",
-          "direction": "Directly to camera. Relaxed. Friend కి share చేస్తున్నట్టు.",
-          "dialogue": "So AI technology 2026. నేను కొంచెం actually చదివాను — takes absorb చేయడానికి బదులు. And here's the thing — noise దాటిన తర్వాత, actually interesting and understandable. నా goal — నేను first గా కనుగొనాలని కోరుకున్న version ఇవ్వడం. Clear, honest, unnecessary jargon లేకుండా."
+          "name": "Start",
+          "time": "0:00 – 0:45",
+          "direction": "No intro. Just start mid-thought. Conversation already జరుగుతున్నట్టు.",
+          "dialogue": "Okay so photography గురించి మాట్లాడాలి. And I want to do it the way nobody seems to be doing it right now — simply. నేను scroll చేసి చాలా takes చదివాను — none of it is answering my actual questions. Basic questions. Normal person అడిగే questions. So let me try. Expert కాదు నేను. Just someone who's been paying attention. And sometimes that's actually enough.",
+          "broll": [
+            "Scrolling phone — no face visible",
+            "Coffee and phone flat lay",
+            "Window view, city or nature background"
+          ]
         },
         {
-          "name": "What It Actually Is",
-          "time": "0:30 – 1:30",
-          "direction": "Lean in. Clear గా explain చేస్తున్నారు. Smart but non-technical friend వినేట్టు.",
-          "dialogue": "AI technology 2026 simplest గా చెప్తాను. It does — Role of humans in teaching stressed as AI evolves. అలా చెప్తే simple గా sound అవుతుంది, right? Most articles లో complicated గా sound అవడానికి కారణం — mechanism ని purpose కంటే ముందు explain చేస్తారు. Problem solve నుండి start చేస్తే rest faster click అవుతుంది. And అది చెప్పేది — whether this is actually as big as people are saying."
+          "name": "What People Think",
+          "time": "0:45 – 2:00",
+          "direction": "Conversational. Friend కి జరిగింది చెప్తున్నట్టు.",
+          "dialogue": "photography తో problem ఏమిటంటే — news లో జరుగుతున్న conversation, normal people మాట్లాడే conversation match అవట్లేదు. News లో అంతా Multiple blasts heard in Burundi's Bujumbura గురించి. That's real, that matters — dismiss చేయట్లేదు. కానీ నేను నా చుట్టూ ఉన్న వాళ్ళతో మాట్లాడినప్పుడు — friends, family, ఈ రోజు కలిసిన వాళ్ళు — వాళ్ళు actually worry చేసేది different. వాళ్ళ daily life లో ఎలా land అవుతుందో అని worry చేస్తున్నారు. Pocket లో, neighbourhood లో, kids school లో. Those two conversations barely overlap అవట్లేదు right now.",
+          "broll": [
+            "Hands gesturing while talking, no face",
+            "Notebook with notes visible",
+            "Phone screen close-up"
+          ]
         },
         {
-          "name": "Why It Matters Now",
-          "time": "1:30 – 3:00",
-          "direction": "More thoughtful. Bigger picture lands here.",
-          "dialogue": "AI technology 2026 ఇప్పుడు relevant గా ఉందంటే — Anthropic Partners with Australia for AI Economic Insights. ఈ part most coverage లో miss అవుతుంది — big claims కంటే less dramatic. కానీ ఇదే actually people time, work, money ని affect చేసేది. And those practical consequences matter most."
+          "name": "Real Thought",
+          "time": "2:00 – 3:30",
+          "direction": "Honest. Share what you actually found past the headlines.",
+          "dialogue": "photography గురించి నేను understand చేసుకోవడానికి try చేస్తున్నది — Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’. దీన్ని Multiple blasts heard in Burundi's Bujumbura తో కలిపి చూస్తే — everybody మాట్లాడే part — actually more complicated picture కనిపిస్తుంది. Surface story ఒక విధంగా ఉంటుంది. కానీ details లో కూర్చుని చూస్తే — actual data, actual timeline, ఏం జరిగిందో versus ఏం చెప్తున్నారో — అది more nuanced. Nuance headlines కి boring. But అందులోనే truth usually ఉంటుంది.",
+          "broll": [
+            "Slower hand gestures, thoughtful pace",
+            "Overhead desk — phone, notes, coffee",
+            "Typing or scrolling, voice over"
+          ]
         },
         {
-          "name": "Honest Assessment",
-          "time": "3:00 – 4:00",
-          "direction": "Direct. What's real vs what's overhyped.",
-          "dialogue": "AI technology 2026 గురించి నా honest take — genuinely worth understanding. కానీ most headlines లో version either too optimistic or too pessimistic. Realistic version — whether this is actually as big as people are saying. Real progress జరుగుతోంది, some use cases genuinely useful for regular people, కానీ timeline and impact for average person is more gradual than the big claims suggest. And knowing that realistic version actually helps you make better decisions."
+          "name": "Personal Take",
+          "time": "3:30 – 4:30",
+          "direction": "Friend కి properly ఆలోచించిన తర్వాత చెప్తున్నట్టు.",
+          "dialogue": "నా honest take — photography గురించి — coverage suggest చేసేదానికంటే normal people ని way more affect చేస్తుంది. Bills pay చేయడం, family feed చేయడం, city లో safe feel అవడం — అదే story. And right now ఆ story ని louder, more dramatic version of events drown out చేస్తోంది. That's a real problem. People news ని వాళ్ళ actual life తో connect చేయలేకపోతే — they stop paying attention. Then they stop participating. And that's when things really go sideways.",
+          "broll": [
+            "Direct camera, sitting back slightly",
+            "Any neutral indoor background",
+            "Hands folded on desk"
+          ]
         },
         {
-          "name": "Quick Takeaway",
-          "time": "4:00 – 4:30",
-          "direction": "Practical. Not a lecture.",
-          "dialogue": "AI technology 2026 గురించి quick version — genuinely moving, realistic timeline is longer than headlines suggest, and most worth paying attention to is whether this is actually as big as people are saying. Expert అవ్వాల్సిన అవసరం లేదు. Just understand it well enough to recognise when it becomes relevant to your actual life."
+          "name": "Small Moment",
+          "time": "4:30 – 5:00",
+          "direction": "Pause. Quiet realisation.",
+          "dialogue": "Honestly — photography ఎలా play out అవుతుందో తెలీదు. ఎవరికీ తెలీదు, really. కానీ coverage కి, people's actual lives కి మధ్య gap — అది real. And most honest thing మనం చేయగలిగేది — stay curious. Basic questions అడగడం continue చేయండి. Loudest voice చెప్పేది మాత్రమే absorb చేయకండి.",
+          "broll": [
+            "Still. Pause. Let it land.",
+            "Looking slightly off-camera",
+            "Empty desk, voice only"
+          ]
         },
         {
           "name": "Ending",
-          "time": "4:30 – 5:00",
-          "direction": "Warm and direct.",
-          "dialogue": "Anyway — AI technology 2026 గురించి నా honest breakdown. Expert take కాదు — just headlines దాటి చదివి share చేయాలనుకున్న ఒక వ్యక్తి. Useful గా అనిపిస్తే subscribe చేయండి — ఇలాంటి plain-language breakdowns regularly చేస్తాను. And comment లో చెప్పండి: AI technology 2026 గురించి ఏ part లో more detail కావాలో? నేను దాన్ని plan చేసుకోవడానికి use చేస్తాను."
+          "time": "5:00 – 5:30",
+          "direction": "Camera వైపు చూడండి. Warm గా, simple గా.",
+          "dialogue": "Anyway. photography గురించి నా honest take ఇది. Expert opinion కాదు. Just normal person making sense of something. మీరు differently చూస్తున్నారా — comment లో చెప్పండి, నేను genuinely చదువుతాను. ఇలాంటి straightforward coverage useful గా అనిపిస్తే subscribe చేయండి. See you in the next one.",
+          "broll": [
+            "Back to relaxed opening setup",
+            "Phone face-down, putting it down",
+            "Warm simple close"
+          ]
         }
       ],
+      "shorts": {
+        "hook": "photography — simple version ఎవరూ చెప్పలేదు.",
+        "core": "photography — coverage లో miss అవుతున్నది: a simple and clear way of looking at this situation. And that's the part that affects real people.",
+        "cta": "ఇలాంటి content కోసం follow చేయండి. Comment వేయండి — photography మీకూ ఉందా?",
+        "note": "Shoot vertical 9:16. 60 seconds max. Hook must land in first 2 seconds. No slow intro."
+      },
       "talking_lines": [
-        "Role of humans in teaching stressed as AI evolves — అదే right now things ని forward move చేస్తోంది.",
-        "whether this is actually as big as people are saying అర్థమైతే — whole picture makes a lot more sense.",
-        "Expert కాదు నేను. Just headline దాటి చదివి share చేయాలనుకున్న వాడిని.",
-        "AI technology 2026 గురించి everybody మాట్లాడుతున్నారు. కానీ actually matter అయ్యే part ని most explanations skip చేస్తాయి.",
-        "Ignore చేయకండి, panic అవ్వకండి. Just understand it. That's enough.",
-        "AI technology 2026 యొక్క practical version — theoretical version కంటే more interesting.",
-        "AI technology 2026 యొక్క realistic timeline — coverage suggest చేసేదానికంటే less dramatic. And that's okay.",
-        "Technology most useful when quietly something easier చేస్తుంది. AI technology 2026 does that.",
-        "Something affects you అవుతోందా అని know చేసుకోవడానికి sufficient గా understand చేసుకోవడం — that's all most people need.",
-        "whether this is actually as big as people are saying — ఒకసారి చూస్తే, unsee చేయలేరు."
+        "photography గురించి real story — loud headlines లో కాదు, quiet details లో ఉంది.",
+        "Real people ని affect చేసేది always paragraph seven లో ఉంటుంది. Never the headline.",
+        "React చేస్తున్నారు. కానీ actually understand చేస్తున్న వాళ్ళు తక్కువ. That gap matters.",
+        "Political version of this story, human version — two completely different things.",
+        "నేను expert కాదు. Just normal person paying attention. And sometimes that's enough.",
+        "Simply మాట్లాడడం — అదే missing. అదే నేను try చేస్తున్నది.",
+        "All answers నా దగ్గర లేవు. But I have questions — and I think that counts.",
+        "photography గురించి everybody మాట్లాడుతున్నారు. కానీ simply explain చేసే వాళ్ళు లేరు — and that's the problem.",
+        "Curious గా ఉండండి. Basic questions అడగండి. Loudest take మాత్రమే absorb చేయకండి.",
+        "Multiple blasts heard in Burundi's Bujumbura — ఆ part underreported గా ఉందని అనిపిస్తుంది."
       ],
       "no_face": [
         {
           "scene": "Scene 1",
-          "tip": "Laptop or phone screen in frame. Your hands typing or swiping. Voice only."
+          "tip": "Sit at a desk. Hands visible. Voice only — no face needed."
         },
         {
           "scene": "Scene 2",
-          "tip": "Close-up of a screen showing relevant content. Slow zoom."
+          "tip": "Slow pan of a newspaper, phone screen showing headlines, or a map."
         },
         {
           "scene": "Scene 3",
-          "tip": "Hands gesturing over a desk — notebook, device, pen. B-roll."
+          "tip": "Walking shot outdoors or in a corridor. Voice over the footage."
         },
         {
           "scene": "Scene 4",
-          "tip": "Screen recording or app walkthrough — no face, just narration."
+          "tip": "A window view. City street or sky. Simple and neutral."
         },
         {
           "scene": "Scene 5",
-          "tip": "Still shot of a device on a clean surface. Ambient sound only."
+          "tip": "Hold on a still image or graphic — just ambient sound underneath."
         },
         {
           "scene": "Scene 6",
-          "tip": "Back to Scene 1. Hands on keyboard. Close with voice over."
+          "tip": "Back to desk setup. Simple close. Same visual as Scene 1."
         }
-      ]
+      ],
+      "end_screen_line": "ఇది land అయితే, ఈ next one కూడా like చేస్తారు — ఇక్కడే continue అవుతుంది."
     }
   }
 }

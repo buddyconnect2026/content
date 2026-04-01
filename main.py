@@ -1154,6 +1154,536 @@ NO_FACE_OPTS = {
     ],
 }
 
+# ═══════════════════════════════════════════════════════════════════════════════
+#  2026 TREND ADDITIONS — Shorts, Hooks, Retention, Community, Platform
+# ═══════════════════════════════════════════════════════════════════════════════
+
+SHORTS_HOOKS = {
+    "personal": {
+        "English": [
+            "Nobody talks honestly about {topic}. So I will.",
+            "You know that feeling with {topic}? Yeah. Let me just say it.",
+            "{topic}. I'm just going to be honest about it right now.",
+        ],
+        "Tamil": [
+            "{topic} பத்தி யாரும் honestly பேசமாட்டாங்க. நான் பேசுறேன்.",
+            "{topic} பத்தி feel ஆகுதா? நேரடியா சொல்றேன்.",
+            "{topic} — honest-ஆ இதை say பண்ணதே இல்ல. இப்ப பண்றேன்.",
+        ],
+        "Telugu": [
+            "{topic} గురించి ఎవరూ honestly మాట్లాడరు. నేను మాట్లాడతాను.",
+            "{topic} అనిపిస్తోందా? Direct గా చెప్తాను.",
+            "{topic} — honest గా ఇది say చేయలేదు. ఇప్పుడు చేస్తున్నాను.",
+        ],
+    },
+    "news": {
+        "English": [
+            "{topic}. Here's the part nobody's explaining simply.",
+            "Everyone's talking about {topic}. But here's what actually matters.",
+            "The simple version of {topic} that nobody gave you.",
+        ],
+        "Tamil": [
+            "{topic} — simply explain பண்ணவே யாரும் இல்ல.",
+            "Everybody {topic} பத்தி பேசுறாங்க. But here's what actually matters.",
+            "{topic} — simple version யாரும் சொல்லலை.",
+        ],
+        "Telugu": [
+            "{topic} — simply explain చేయనే ఎవరూ లేరు.",
+            "Everybody {topic} గురించి మాట్లాడుతున్నారు. But here's what actually matters.",
+            "{topic} — simple version ఎవరూ చెప్పలేదు.",
+        ],
+    },
+    "tech": {
+        "English": [
+            "{topic} in 60 seconds — what you actually need to know.",
+            "Stop scrolling. Here's what {topic} actually is.",
+            "{topic}? Let me give you the plain version.",
+        ],
+        "Tamil": [
+            "{topic} 60 seconds-ல — actually என்ன தெரியணும்.",
+            "Scroll stop பண்ணு. {topic} actually என்னன்னு சொல்றேன்.",
+            "{topic}? Plain version சொல்றேன்.",
+        ],
+        "Telugu": [
+            "{topic} 60 seconds లో — actually ఏం తెలుసుకోవాలో.",
+            "Scroll ఆపండి. {topic} actually ఏమిటో చెప్తాను.",
+            "{topic}? Plain version చెప్తాను.",
+        ],
+    },
+    "fitness": {
+        "English": [
+            "The one thing about {topic} that actually makes the difference.",
+            "{topic}. Here's the honest version in 60 seconds.",
+            "Stop overcomplicating {topic}. Here's what actually works.",
+        ],
+        "Tamil": [
+            "{topic} பத்தி actually difference பண்ற ஒரு விஷயம்.",
+            "{topic} — 60 seconds-ல honest version.",
+            "{topic}-ஐ overcomplicate பண்ணாதீங்க. Actually work பண்றது இதுதான்.",
+        ],
+        "Telugu": [
+            "{topic} గురించి actually difference చేసే ఒక విషయం.",
+            "{topic} — 60 seconds లో honest version.",
+            "{topic} ని overcomplicate చేయకండి. Actually work చేసేది ఇదే.",
+        ],
+    },
+    "lifestyle": {
+        "English": [
+            "The honest version of {topic} nobody posts about.",
+            "{topic} — real talk in 60 seconds.",
+            "What {topic} actually looks like when it's working.",
+        ],
+        "Tamil": [
+            "{topic} honest version — யாரும் post பண்றதில்ல.",
+            "{topic} — 60 seconds real talk.",
+            "{topic} actually work ஆகும்போது என்ன மாதிரி இருக்கு.",
+        ],
+        "Telugu": [
+            "{topic} honest version — ఎవరూ post చేయరు.",
+            "{topic} — 60 seconds real talk.",
+            "{topic} actually work అయినప్పుడు ఎలా ఉంటుందో.",
+        ],
+    },
+}
+
+SHORTS_CORE = {
+    "personal": {
+        "English": [
+            "The thing with {topic} is — most people feel it but nobody says it. And the silence is part of the problem. {angle}. That's the part worth sitting with.",
+            "I used to think {topic} was just a me thing. It's not. It's {angle}. And that reframe changes everything.",
+        ],
+        "Tamil": [
+            "{topic} பத்தி — most people feel பண்றாங்க, யாரும் சொல்றதில்ல. அந்த silence-ஐ தான் problem. {angle} — அந்த part-ஐ acknowledge பண்றது பெரிய difference.",
+            "{topic} என் problem மட்டும்னு நினைச்சேன். இல்ல. அது {angle}. That reframe changes everything.",
+        ],
+        "Telugu": [
+            "{topic} గురించి — most people feel అవుతారు, ఎవరూ చెప్పరు. ఆ silence ఒక problem. {angle} — ఆ part acknowledge చేయడమే పెద్ద difference.",
+            "{topic} నా problem మాత్రమే అనుకున్నాను. కాదు. అది {angle}. That reframe changes everything.",
+        ],
+    },
+    "news": {
+        "English": [
+            "With {topic} — the part getting missed in most coverage is this: {angle}. And that's the part that actually affects real people's lives.",
+            "Here's the simple version of {topic}: {angle}. Everything else is noise. This is the part worth understanding.",
+        ],
+        "Tamil": [
+            "{topic} — coverage-ல miss ஆகுறது: {angle}. And that's the part that affects real people.",
+            "{topic} simple version: {angle}. மற்றதெல்லாம் noise. இதுதான் understand பண்ண worth.",
+        ],
+        "Telugu": [
+            "{topic} — coverage లో miss అవుతున్నది: {angle}. And that's the part that affects real people.",
+            "{topic} simple version: {angle}. మిగతాది noise. ఇదే understand చేసుకోవడానికి worth.",
+        ],
+    },
+    "tech": {
+        "English": [
+            "{topic} is real. But the honest version is: {angle}. That's the useful thing to know right now.",
+            "Skip the hype. {topic} basically means: {angle}. And that's the part that actually matters to you.",
+        ],
+        "Tamil": [
+            "{topic} real-ஆ இருக்கு. ஆனா honest version: {angle}. இது தான் right now useful.",
+            "Hype skip பண்ணு. {topic} basically: {angle}. That's the part that actually matters to you.",
+        ],
+        "Telugu": [
+            "{topic} real గా ఉంది. కానీ honest version: {angle}. ఇదే ఇప్పుడు useful.",
+            "Hype skip చేయండి. {topic} basically: {angle}. That's the part that actually matters to you.",
+        ],
+    },
+    "fitness": {
+        "English": [
+            "The thing that actually changed my {topic} isn't what you'd expect. It's {angle}. Simple, but it stuck.",
+            "With {topic}, most people focus on the wrong thing. What actually matters is {angle}. That's it.",
+        ],
+        "Tamil": [
+            "என்னோட {topic}-ஐ actually change பண்ணது: {angle}. Simple, but it stuck.",
+            "{topic}-ல most people wrong thing focus பண்றாங்க. Actually matters: {angle}. That's it.",
+        ],
+        "Telugu": [
+            "నా {topic} ని actually change చేసింది: {angle}. Simple, but it stuck.",
+            "{topic} లో most people wrong thing focus చేస్తారు. Actually matters: {angle}. That's it.",
+        ],
+    },
+    "lifestyle": {
+        "English": [
+            "The honest version of {topic} nobody posts: {angle}. That's the thing that actually changed things for me.",
+            "{topic} looked different in my head vs real life. The real version is {angle}. And that's fine.",
+        ],
+        "Tamil": [
+            "{topic} honest version — யாரும் post பண்றதில்ல: {angle}. It's what actually changed things.",
+            "{topic} நான் expect பண்ணதுக்கும் reality-க்கும் different. Real version: {angle}. And that's fine.",
+        ],
+        "Telugu": [
+            "{topic} honest version — ఎవరూ post చేయరు: {angle}. It's what actually changed things.",
+            "{topic} నేను expect చేసింది, reality వేరుగా ఉంది. Real version: {angle}. And that's fine.",
+        ],
+    },
+}
+
+SHORTS_CTA = {
+    "English": "Follow for more honest content like this. And drop a comment — are you dealing with {topic} too?",
+    "Tamil":   "இது மாதிரி content-க்கு follow பண்ணுங்க. Comment பண்ணுங்க — {topic} உங்களுக்கும் இருக்கா?",
+    "Telugu":  "ఇలాంటి content కోసం follow చేయండి. Comment వేయండి — {topic} మీకూ ఉందా?",
+}
+
+# ── Retention hooks (30% and 50% watch time markers) ─────────────────────────
+
+RETENTION_HOOKS = {
+    "personal": {
+        "English": {
+            "30pct": [
+                "And this next part — this is the bit I wish someone had told me earlier.",
+                "Stay with me here because what comes next actually changes how I think about all of this.",
+            ],
+            "50pct": [
+                "The thing I'm about to say is the one that made the actual difference. Don't skip this part.",
+                "This is where it starts to click — just a little further.",
+            ],
+        },
+        "Tamil": {
+            "30pct": [
+                "இந்த next part — யாராவது முன்னாடியே சொல்லி இருந்தா நன்னா இருக்கும்.",
+                "இங்க stay பண்ணுங்க — next part-ல நான் எப்படி think பண்றேன்னு change ஆகுது.",
+            ],
+            "50pct": [
+                "நான் இப்ப சொல்லப்போறது — actual difference பண்ணது இது தான். Skip பண்ணாதீங்க.",
+                "இங்கே தான் click ஆகுது — கொஞ்சம் more பாருங்க.",
+            ],
+        },
+        "Telugu": {
+            "30pct": [
+                "ఈ next part — ఇది ఎవరైనా ముందే చెప్పి ఉంటే బాగుండేది.",
+                "ఇక్కడ stay చేయండి — next part నా thinking ని change చేస్తుంది.",
+            ],
+            "50pct": [
+                "నేను ఇప్పుడు చెప్పబోయేది — actual difference చేసింది ఇదే. Skip చేయకండి.",
+                "ఇక్కడే click అవుతుంది — కొంచెం more చూడండి.",
+            ],
+        },
+    },
+    "news": {
+        "English": {
+            "30pct": [
+                "And here's the part that most news coverage completely skips over.",
+                "This next bit is actually the most important part of the whole story.",
+            ],
+            "50pct": [
+                "What I'm about to say is what I keep coming back to — and it's the thing worth remembering.",
+                "Keep watching — because what actually matters to regular people is coming next.",
+            ],
+        },
+        "Tamil": {
+            "30pct": [
+                "இந்த part-ஐ most news coverage completely skip பண்றது.",
+                "இந்த next bit — whole story-ல most important part இது.",
+            ],
+            "50pct": [
+                "நான் இப்ப சொல்லப்போறது — நான் keep coming back பண்றது இதுக்கு. Worth remembering.",
+                "Watch பண்றீங்களா — regular people-க்கு actually matter பண்றது next-ல வருது.",
+            ],
+        },
+        "Telugu": {
+            "30pct": [
+                "ఈ part ని most news coverage completely skip చేస్తుంది.",
+                "ఈ next bit — whole story లో most important part ఇదే.",
+            ],
+            "50pct": [
+                "నేను ఇప్పుడు చెప్పబోయేది — నేను దీనికి keep coming back చేస్తాను. Worth remembering.",
+                "Watch చేయండి — regular people కి actually matter అయ్యేది next లో వస్తుంది.",
+            ],
+        },
+    },
+    "tech": {
+        "English": {
+            "30pct": [
+                "The next part is where the actually useful information lives — not the hype, the real stuff.",
+                "This is the part that separates understanding it from just knowing the name.",
+            ],
+            "50pct": [
+                "I'm about to give you the one thing that actually helps you know if this matters to you.",
+                "What comes next is the practical part — what to actually do with all of this.",
+            ],
+        },
+        "Tamil": {
+            "30pct": [
+                "Next part-ல தான் actually useful information இருக்கு — hype இல்ல, real stuff.",
+                "Just knowing the name vs actually understanding — இந்த part-ல தான் difference.",
+            ],
+            "50pct": [
+                "இது உங்களை affect பண்றதா-ன்னு know பண்ண help பண்ற ஒரே விஷயம் சொல்லப்போறேன்.",
+                "Next-ல practical part வருது — actually என்ன பண்றது இதோட.",
+            ],
+        },
+        "Telugu": {
+            "30pct": [
+                "Next part లో actually useful information ఉంది — hype కాదు, real stuff.",
+                "Just knowing the name vs actually understanding — ఈ part లోనే తేడా ఉంది.",
+            ],
+            "50pct": [
+                "ఇది మీకు affect చేస్తుందో లేదో తెలుసుకోవడానికి help చేసే ఒక విషయం చెప్తాను.",
+                "Next లో practical part వస్తుంది — ఇదంతా తో actually ఏం చేయాలో.",
+            ],
+        },
+    },
+    "fitness": {
+        "English": {
+            "30pct": [
+                "And this next part is actually the piece most people skip — which is exactly why they get stuck.",
+                "Stay here — what I'm about to say about {topic} is the thing that actually moved the needle.",
+            ],
+            "50pct": [
+                "The practical bit is coming now. This is the part that's actually doable, not just inspirational.",
+                "What comes next is the specific thing. Not general advice. The actual thing.",
+            ],
+        },
+        "Tamil": {
+            "30pct": [
+                "Next part — most people இதை skip பண்றாங்க. அதுதான் stuck ஆகுறது.",
+                "இங்க stay பண்ணுங்க — {topic} பத்தி நான் சொல்லப்போறது actually needle move பண்ணது.",
+            ],
+            "50pct": [
+                "Practical bit இப்ப வருது. Actually doable part — just inspirational இல்ல.",
+                "Next-ல specific thing வருது. General advice இல்ல. Actual thing.",
+            ],
+        },
+        "Telugu": {
+            "30pct": [
+                "Next part — most people ఇది skip చేస్తారు. అందుకే stuck అవుతారు.",
+                "ఇక్కడ stay చేయండి — {topic} గురించి నేను చెప్పబోయేది actually needle move చేసింది.",
+            ],
+            "50pct": [
+                "Practical bit ఇప్పుడు వస్తోంది. Actually doable part — just inspirational కాదు.",
+                "Next లో specific thing వస్తుంది. General advice కాదు. Actual thing.",
+            ],
+        },
+    },
+    "lifestyle": {
+        "English": {
+            "30pct": [
+                "And what I'm about to say is the honest version — not the version that looks good on camera.",
+                "This next part is the thing nobody really posts about. But it's the most useful bit.",
+            ],
+            "50pct": [
+                "The specific thing that actually changed this for me is coming now. Not a vague tip — the actual shift.",
+                "Keep going — what's next is the practical, realistic version of everything I just said.",
+            ],
+        },
+        "Tamil": {
+            "30pct": [
+                "நான் சொல்லப்போறது honest version — camera-ல good-ஆ look ஆகுற version இல்ல.",
+                "Next part — யாரும் post பண்றதில்ல. ஆனா actually most useful bit.",
+            ],
+            "50pct": [
+                "Actually change பண்ணது specific thing இப்ப வருது. Vague tip இல்ல — actual shift.",
+                "Continue பண்ணுங்க — practical, realistic version of everything I just said.",
+            ],
+        },
+        "Telugu": {
+            "30pct": [
+                "నేను చెప్పబోయేది honest version — camera లో good గా look అయ్యే version కాదు.",
+                "Next part — ఎవరూ post చేయరు. కానీ actually most useful bit.",
+            ],
+            "50pct": [
+                "Actually change చేసింది specific thing ఇప్పుడు వస్తుంది. Vague tip కాదు — actual shift.",
+                "Continue చేయండి — practical, realistic version of everything I just said.",
+            ],
+        },
+    },
+}
+
+# ── Community post templates ──────────────────────────────────────────────────
+
+COMMUNITY_POSTS = {
+    "personal": {
+        "English": [
+            "Are you dealing with {topic} right now?\n\n👇 Vote:\nA) Yes, it's heavy lately\nB) Getting through it\nC) Not really but I relate\n\nFull video dropping today — link in bio.",
+            "Real talk — {topic} is something most people carry quietly. You're not alone in it.\n\nNew video today. What's your honest version? Drop it below 👇",
+        ],
+        "Tamil": [
+            "{topic} right now deal பண்றீங்களா?\n\n👇 Vote:\nA) ஆமா, heavy-ஆ இருக்கு\nB) Through it going\nC) இல்ல ஆனா relate ஆகுது\n\nFull video today — link in bio.",
+            "Real talk — {topic} most people quietly carry பண்றாங்க. Alone இல்லீங்க.\n\nNew video today. உங்க honest version என்ன? Below சொல்லுங்க 👇",
+        ],
+        "Telugu": [
+            "{topic} ఇప్పుడు deal చేస్తున్నారా?\n\n👇 Vote:\nA) అవును, lately heavy గా ఉంది\nB) Through it వెళ్తున్నాను\nC) లేదు కానీ relate అవుతున్నాను\n\nFull video today — link in bio.",
+            "Real talk — {topic} most people quietly carry చేస్తారు. మీరు alone కాదు.\n\nNew video today. మీ honest version ఏమిటి? Below చెప్పండి 👇",
+        ],
+    },
+    "news": {
+        "English": [
+            "Quick question on {topic} — what part of the story do you think is being missed in most coverage?\n\nPosted a simple breakdown today. Drop your take below 👇",
+            "{topic} is getting a lot of attention. But what do you think actually matters here for regular people?\n\nNew video today. Comment your honest take 👇",
+        ],
+        "Tamil": [
+            "{topic} பத்தி quick question — coverage-ல miss ஆகுற part என்னன்னு நினைக்கீங்க?\n\nSimple breakdown video today. உங்க take சொல்லுங்க 👇",
+            "{topic} நிறைய attention கிடைக்குது. ஆனா regular people-க்கு actually matter பண்றது என்னன்னு நினைக்கீங்க?\n\nNew video today. Honest take comment பண்ணுங்க 👇",
+        ],
+        "Telugu": [
+            "{topic} గురించి quick question — coverage లో miss అవుతున్న part ఏమిటని మీరు అనుకుంటున్నారు?\n\nSimple breakdown video today. మీ take చెప్పండి 👇",
+            "{topic} చాలా attention పొందుతోంది. కానీ regular people కి actually matter అయ్యేది ఏమిటని మీరు అనుకుంటున్నారు?\n\nNew video today. Honest take comment చేయండి 👇",
+        ],
+    },
+    "tech": {
+        "English": [
+            "Have you actually tried {topic} yet?\n\n👇 Quick poll:\nA) Yes — genuinely useful\nB) Tried it, meh\nC) Not yet\nD) Completely avoiding it\n\nBroke it down simply in today's video.",
+            "Honest question — do you think {topic} is as big a deal as people say?\n\nMy honest take is in today's video. What's yours? 👇",
+        ],
+        "Tamil": [
+            "{topic} actually try பண்ணீங்களா?\n\n👇 Quick poll:\nA) ஆமா — genuinely useful\nB) Try பண்ணேன், meh\nC) இல்ல\nD) Avoid பண்றேன்\n\nToday's video-ல simply break down பண்ணினேன்.",
+            "Honest question — {topic} people சொல்லவ்வு big deal-ஆ நீங்க நினைக்கீங்களா?\n\nEn honest take today's video-ல. உங்களுடையது? 👇",
+        ],
+        "Telugu": [
+            "{topic} actually try చేశారా?\n\n👇 Quick poll:\nA) అవును — genuinely useful\nB) Try చేశాను, meh\nC) లేదు\nD) Avoid చేస్తున్నాను\n\nToday's video లో simply break down చేశాను.",
+            "Honest question — {topic} people చెప్పినట్టు big deal అని మీరు అనుకుంటున్నారా?\n\nనా honest take today's video లో. మీది ఏమిటి? 👇",
+        ],
+    },
+    "fitness": {
+        "English": [
+            "Where are you right now with {topic}?\n\n👇 Be honest:\nA) Just starting out\nB) 1–3 months in and struggling\nC) Restarting again\nD) In a good streak\n\nNew video on the honest version today.",
+            "{topic} — what's been hardest for you? Not the physical part. The mental part.\n\nTalking about exactly that today. Drop your answer below 👇",
+        ],
+        "Tamil": [
+            "{topic} பத்தி right now நீங்க எங்க இருக்கீங்க?\n\n👇 Honest-ஆ:\nA) Just starting\nB) 1-3 months-ல struggle\nC) Restart பண்றேன்\nD) Good streak-ல\n\nNew video today — honest version.",
+            "{topic} — hardest-ஆ இருந்தது என்ன? Physical இல்ல. Mental part.\n\nToday's video-ல exactly இதை பத்தி. Below சொல்லுங்க 👇",
+        ],
+        "Telugu": [
+            "{topic} గురించి right now మీరు ఎక్కడ ఉన్నారు?\n\n👇 Honest గా:\nA) Just starting\nB) 1-3 months లో struggle\nC) Restart చేస్తున్నాను\nD) Good streak లో\n\nNew video today — honest version.",
+            "{topic} — hardest గా అనిపించింది ఏమిటి? Physical కాదు. Mental part.\n\nToday's video లో exactly దీన్ని గురించి. Below చెప్పండి 👇",
+        ],
+    },
+    "lifestyle": {
+        "English": [
+            "Honest check-in — how's {topic} actually going for you right now?\n\n👇 Pick one:\nA) Better than expected\nB) Slower than I'd like\nC) Starting again\nD) Haven't started yet\n\nNew video on the real version today.",
+            "The honest version of {topic} vs the version people post — there's a gap.\n\nTalking about the real version today. What does yours actually look like? Comment below 👇",
+        ],
+        "Tamil": [
+            "Honest check-in — {topic} right now actually எப்படி போகுது?\n\n👇 One pick:\nA) Expected-ஐ விட better\nB) நினைச்சதை விட slower\nC) Again starting\nD) Start பண்ணவே இல்ல\n\nNew video today — real version.",
+            "{topic} honest version vs people post பண்றது — gap இருக்கு.\n\nReal version today. உங்களுக்கு actually எப்படி? Comment பண்ணுங்க 👇",
+        ],
+        "Telugu": [
+            "Honest check-in — {topic} right now actually ఎలా వెళ్తోంది?\n\n👇 One pick:\nA) Expected కంటే better\nB) అనుకున్నదానికంటే slower\nC) Again starting\nD) Start చేయనే లేదు\n\nNew video today — real version.",
+            "{topic} honest version vs people post చేసేది — gap ఉంది.\n\nReal version today. మీకు actually ఎలా? Comment చేయండి 👇",
+        ],
+    },
+}
+
+# ── End screen lines ──────────────────────────────────────────────────────────
+
+END_SCREEN_LINES = {
+    "English": [
+        "I put up a video recently that pairs really well with this — it's right here. Worth watching back to back.",
+        "If this one landed, I think you'll like the next one even more — it picks up right where this left off.",
+        "The next video — the one I'm pointing to right now — goes deeper on one part of what I just talked about.",
+    ],
+    "Tamil": [
+        "இந்த video-க்கு really well pair ஆகுற ஒரு video recent-ஆ போட்டேன் — இங்கே இருக்கு. Back to back பாக்க worth.",
+        "இது land ஆச்சுன்னா, இந்த next one-உம் like பண்ணுவீங்க — இதே வரிசையிலேயே continue ஆகுது.",
+        "Next video — நான் இப்ப point பண்றது — நான் இப்ப பேசினதுல ஒரு part-ஐ deeper-ஆ cover பண்றது.",
+    ],
+    "Telugu": [
+        "ఈ video కి really well pair అయ్యే video recently post చేశాను — ఇక్కడ ఉంది. Back to back చూడడం worth.",
+        "ఇది land అయితే, ఈ next one కూడా like చేస్తారు — ఇక్కడే continue అవుతుంది.",
+        "Next video — నేను ఇప్పుడు point చేస్తున్నది — నేను ఇప్పుడు మాట్లాడింది deeper గా cover చేస్తుంది.",
+    ],
+}
+
+# ── Instagram captions and LinkedIn reframes ──────────────────────────────────
+
+INSTAGRAM_HOOKS = {
+    "personal":  [
+        "Nobody talks about {topic} honestly. So here's my real version. 🧵",
+        "Real talk about {topic}. Not the pretty version.",
+        "If you've been carrying {topic} quietly — this is for you.",
+    ],
+    "news":      [
+        "The simple version of {topic} that nobody gave you. 📌",
+        "{topic} — what it actually means for you, not the headline version.",
+        "Breaking down {topic} in plain language. No agenda.",
+    ],
+    "tech":      [
+        "{topic} explained in plain English. No hype. 📱",
+        "Here's what {topic} actually means for non-technical people.",
+        "Skip the noise on {topic}. Here's the honest version.",
+    ],
+    "fitness":   [
+        "The {topic} content nobody posts. Here's the real version. 💪",
+        "Honest update on {topic} — not the highlight reel.",
+        "{topic} — the sustainable version. Not the extreme one.",
+    ],
+    "lifestyle": [
+        "My honest {topic} update. Not the aesthetic version. ✨",
+        "{topic} — the messy real version nobody posts.",
+        "Still figuring out {topic}. Here's where I actually am.",
+    ],
+}
+
+LINKEDIN_REFRAMES = {
+    "personal":  [
+        "I've been thinking about {topic} — specifically {angle}. It shows up in professional life too. Here's what I've found actually helps.",
+        "There's a version of {topic} we don't talk about at work. But it affects how we show up and make decisions. My honest take on it.",
+    ],
+    "news":      [
+        "Watching {topic} closely. The angle that matters most for professionals: {angle}. Happy to hear different perspectives.",
+        "{topic} is getting a lot of coverage. The part with the most practical relevance for people in business: {angle}.",
+    ],
+    "tech":      [
+        "Been looking into {topic}. For non-technical decision-makers, the honest version: {angle}. Worth understanding before it becomes a boardroom conversation.",
+        "The practical case for paying attention to {topic} right now: {angle}. Not the hype version — the useful version.",
+    ],
+    "fitness":   [
+        "The {topic} conversation applies at work too — how we think about consistency, habits, and recovery. The mental model that helped me: {angle}.",
+        "What {topic} taught me about building sustainable systems — physical or professional: {angle}.",
+    ],
+    "lifestyle": [
+        "The {topic} update — professional version. What I'm learning about {angle} applies to how I structure my work too.",
+        "Honest reflection on {topic}: {angle}. The version that's actually practical, not the curated highlight reel.",
+    ],
+}
+
+# ── B-roll suggestions per category and scene index ──────────────────────────
+
+_BROLL = {
+    "personal": [
+        ["Close-up of hands resting or moving naturally", "Window light, camera still", "Soft focus on room details — no face"],
+        ["Slow zoom on a neutral surface", "Hands on phone or notebook", "Over-shoulder empty room shot"],
+        ["Side profile, slightly blurred — voice only", "B-roll of everyday space", "Static shot of any calm corner"],
+        ["Looking down or away, natural light", "Close-up of a drink, notebook, or plant", "Window with soft natural light"],
+        ["Still frame — no movement. Let silence land.", "Hands in lap. No face.", "Fade to soft background"],
+        ["Back to opening setup", "Simple direct setup, warm light", "Same framing as Scene 1"],
+    ],
+    "news": [
+        ["Scrolling phone — no face visible", "Coffee and phone flat lay", "Window view, city or nature background"],
+        ["Hands gesturing while talking, no face", "Notebook with notes visible", "Phone screen close-up"],
+        ["Slower hand gestures, thoughtful pace", "Overhead desk — phone, notes, coffee", "Typing or scrolling, voice over"],
+        ["Direct camera, sitting back slightly", "Any neutral indoor background", "Hands folded on desk"],
+        ["Still. Pause. Let it land.", "Looking slightly off-camera", "Empty desk, voice only"],
+        ["Back to relaxed opening setup", "Phone face-down, putting it down", "Warm simple close"],
+    ],
+    "tech": [
+        ["Screen visible — relevant app or site", "Laptop or phone, hands in frame", "Clean desk B-roll"],
+        ["Typing or scrolling relevant interface", "Phone propped up — hands explaining", "Screen with voice over"],
+        ["Slow pan of screen or device", "Overhead of desk — multiple devices", "Close-up of interface detail"],
+        ["Leaning back — device in lap", "Writing in notebook, thinking", "Any tech background, voice only"],
+        ["Summary visible on screen or notes", "Hands holding device, tilted", "Clean desk, still frame"],
+        ["Back to opening screen setup", "Device face-down — voice close", "Warm close, device off"],
+    ],
+    "fitness": [
+        ["Workout gear laid out flat", "Shoes on floor, walking shot — no face", "Gym B-roll — equipment only"],
+        ["Hands tying shoes or adjusting gear", "Walking shot from behind", "Outdoor — pavement or trail, no face"],
+        ["Water bottle or journal close-up", "Overhead workout mat or gear", "Slow pan of workout space"],
+        ["Side-on walking or standing shot", "Hands on hips, waist-down only", "Outdoor still — park, path, sky"],
+        ["Still — mat, shoes, a quiet moment", "Journal open, pen in hand", "Overhead flat lay — gear and water"],
+        ["Back to opening gear setup", "Voice over empty gym or mat", "Fade on any calm fitness space"],
+    ],
+    "lifestyle": [
+        ["Morning table — coffee, journal, plant", "Tidy corner, natural light", "Window with curtains, soft and calm"],
+        ["Hands pouring or writing", "Pan across a clean shelf", "Close-up of a daily object"],
+        ["Walking through a quiet space", "Hands on keyboard or journaling", "Ambient window shot — no person"],
+        ["Flat lay — daily items, simple", "One object in frame — book, candle, plant", "Overhead table shot"],
+        ["Still frame — no movement. Quiet.", "Soft close-up of any textured surface", "One still: window, cup, or page"],
+        ["Back to morning table", "Voice over quiet b-roll", "Warm simple close"],
+    ],
+}
+
+
 def generate_confidence(bank):
     return {
         "personal": [
@@ -1310,14 +1840,19 @@ def _fmt(s, topic, angle, news_ctx):
     s = re.sub(r"\{news\d+\}", f"the situation around {topic}", s)
     return s
 
-def _build_scenes(banks, topic, angle, news_ctx):
+def _broll_for(bank, scene_idx):
+    options = _BROLL.get(bank, _BROLL["news"])
+    return options[min(scene_idx, len(options) - 1)]
+
+def _build_scenes(banks, topic, angle, news_ctx, bank="news"):
     scenes = []
-    for name, time, dirs, dlgs in banks:
+    for i, (name, time, dirs, dlgs) in enumerate(banks):
         scenes.append({
             "name":      name,
             "time":      time,
             "direction": random.choice(dirs),
             "dialogue":  _fmt(random.choice(dlgs), topic, angle, news_ctx),
+            "broll":     _broll_for(bank, i),
         })
     return scenes
 
@@ -1399,17 +1934,39 @@ _LINE_BANKS = {
 }
 
 def generate_language_data(topic, angle, cat, news_ctx, lang):
-    bank = cat_to_bank(cat)
+    bank   = cat_to_bank(cat)
     scenes = _SCENE_BANKS.get(bank, _SCENE_BANKS["news"])[lang]
     hooks  = _HOOK_BANKS.get(bank,  _HOOK_BANKS["news"])[lang]
     lpool  = _LINE_BANKS.get(bank,  _LINE_BANKS["news"])[lang]
     nf_opt = random.choice(NO_FACE_OPTS.get(bank, NO_FACE_OPTS["news"]))
+
+    all_hooks = [_fmt(h, topic, angle, news_ctx) for h in hooks]
+
+    sh_hooks = SHORTS_HOOKS.get(bank, SHORTS_HOOKS["news"]).get(lang, SHORTS_HOOKS["news"]["English"])
+    sh_cores = SHORTS_CORE.get(bank, SHORTS_CORE["news"]).get(lang, SHORTS_CORE["news"]["English"])
+    shorts = {
+        "hook": _fmt(random.choice(sh_hooks), topic, angle, news_ctx),
+        "core": _fmt(random.choice(sh_cores), topic, angle, news_ctx),
+        "cta":  _fmt(SHORTS_CTA.get(lang, SHORTS_CTA["English"]), topic, angle, news_ctx),
+        "note": "Shoot vertical 9:16. 60 seconds max. Hook must land in first 2 seconds. No slow intro.",
+    }
+
+    ret_pool = RETENTION_HOOKS.get(bank, RETENTION_HOOKS["news"]).get(lang, RETENTION_HOOKS["news"]["English"])
+    retention_hooks = {
+        "at_30pct": _fmt(random.choice(ret_pool["30pct"]), topic, angle, news_ctx),
+        "at_50pct": _fmt(random.choice(ret_pool["50pct"]), topic, angle, news_ctx),
+    }
+
     return {
-        "title":         _title(topic, cat, lang),
-        "hook":          _fmt(random.choice(hooks), topic, angle, news_ctx),
-        "scenes":        _build_scenes(scenes, topic, angle, news_ctx),
-        "talking_lines": _pick_lines(lpool, topic, angle, news_ctx),
-        "no_face":       [{"scene":sc,"tip":tip} for sc,tip in nf_opt],
+        "title":           _title(topic, cat, lang),
+        "hook":            all_hooks[0],
+        "hook_variants":   all_hooks,
+        "retention_hooks": retention_hooks,
+        "scenes":          _build_scenes(scenes, topic, angle, news_ctx, bank),
+        "shorts":          shorts,
+        "talking_lines":   _pick_lines(lpool, topic, angle, news_ctx),
+        "no_face":         [{"scene":sc,"tip":tip} for sc,tip in nf_opt],
+        "end_screen_line": _fmt(random.choice(END_SCREEN_LINES.get(lang, END_SCREEN_LINES["English"])), topic, angle, news_ctx),
     }
 
 def generate_seo(topic, angle, cat, news_ctx):
@@ -1491,13 +2048,48 @@ def generate_seo(topic, angle, cat, news_ctx):
         f"Drop a comment below — {comment_q}"
     )
 
+    chapters = (
+        "00:00 Hook\n"
+        "00:30 What's actually happening\n"
+        "01:30 Why it matters\n"
+        "03:00 My honest take\n"
+        "04:00 Key takeaway\n"
+        "04:30 Wrap up"
+    )
+
+    comm_pool = COMMUNITY_POSTS.get(bank, COMMUNITY_POSTS["news"])
+    community_post = {
+        "English": _fmt(random.choice(comm_pool["English"]), topic, angle, news_ctx),
+        "Tamil":   _fmt(random.choice(comm_pool["Tamil"]),   topic, angle, news_ctx),
+        "Telugu":  _fmt(random.choice(comm_pool["Telugu"]),  topic, angle, news_ctx),
+    }
+
+    ig_pool = INSTAGRAM_HOOKS.get(bank, INSTAGRAM_HOOKS["news"])
+    li_pool = LINKEDIN_REFRAMES.get(bank, LINKEDIN_REFRAMES["news"])
+    sh_en   = SHORTS_HOOKS.get(bank, SHORTS_HOOKS["news"])["English"]
+    platform_adaptations = {
+        "instagram": {
+            "caption_hook": _fmt(random.choice(ig_pool), topic, angle, news_ctx),
+            "reels_hook":   _fmt(random.choice(sh_en),   topic, angle, news_ctx),
+            "note":         "Post Reel within 24h of YouTube upload. Use thumbnail text as video overlay.",
+        },
+        "linkedin": {
+            "post_hook": _fmt(random.choice(li_pool), topic, angle, news_ctx),
+            "note":      "Text-only post works best. Add 2 short paragraphs after the hook. No hashtag spam.",
+        },
+    }
+
     return {
-        "title_options":   title_opts,
-        "comment_question": comment_q,
-        "tags":            tags_map[:15],
-        "hashtags":        hashtags[:8],
-        "thumbnail_text":  thumbnail,
-        "description_start": desc_start,
+        "title_options":        title_opts,
+        "comment_question":     comment_q,
+        "tags":                 tags_map[:15],
+        "hashtags":             hashtags[:8],
+        "thumbnail_text":       thumbnail,
+        "description_start":    desc_start,
+        "chapters":             chapters,
+        "ai_disclosure":        "This video was developed with AI-assisted scripting. All opinions and experiences are the creator's own.",
+        "community_post":       community_post,
+        "platform_adaptations": platform_adaptations,
     }
 
 def generate_structured(topic, angle, cat, news_ctx, default_lang="English"):
@@ -1522,14 +2114,40 @@ def generate_structured(topic, angle, cat, news_ctx, default_lang="English"):
 
 def save_data(data):
     SCRIPT_JSON.write_text(_json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
-    m  = data["meta"]
-    en = data["languages"]["English"]
-    md = [f"# {en['title']}",
-          f"\n**Topic:** {m['topic']}  |  **Angle:** {m['angle']}  |  **Date:** {m['date']}\n",
-          f"**Hook:** {en['hook']}\n", "---"]
+    m   = data["meta"]
+    en  = data["languages"]["English"]
+    seo = data["seo"]
+    md  = [f"# {en['title']}",
+           f"\n**Topic:** {m['topic']}  |  **Angle:** {m['angle']}  |  **Date:** {m['date']}\n",
+           f"**Hook (Primary):** {en['hook']}\n",
+           f"**Hook B:** {en['hook_variants'][1] if len(en['hook_variants']) > 1 else ''}\n",
+           "---"]
     for s in en["scenes"]:
-        md += [f"\n## {s['name']}  `{s['time']}`", f"*{s['direction']}*",
-               f"\n{s['dialogue']}\n"]
+        md += [f"\n## {s['name']}  `{s['time']}`",
+               f"*{s['direction']}*",
+               f"\n{s['dialogue']}\n",
+               f"**B-Roll:** {' · '.join(s['broll'])}\n"]
+    rh = en.get("retention_hooks", {})
+    if rh:
+        md += ["\n---", "\n## Retention Hooks",
+               f"**At 30%:** {rh.get('at_30pct','')}",
+               f"\n**At 50%:** {rh.get('at_50pct','')}"]
+    sh = en.get("shorts", {})
+    if sh:
+        md += ["\n---", "\n## YouTube Shorts (60s)",
+               f"*{sh.get('note','')}*",
+               f"\n**Hook:** {sh.get('hook','')}",
+               f"\n**Core:** {sh.get('core','')}",
+               f"\n**CTA:** {sh.get('cta','')}"]
+    md += ["\n---", "\n## Chapters (paste into description)",
+           f"```\n{seo.get('chapters','')}\n```",
+           "\n## Community Post (English)",
+           seo.get("community_post", {}).get("English", ""),
+           "\n## AI Disclosure",
+           f"*{seo.get('ai_disclosure','')}*"]
+    esl = en.get("end_screen_line", "")
+    if esl:
+        md += ["\n## End Screen Line", esl]
     SCRIPT_MD.write_text("\n".join(md), encoding="utf-8")
     print(f"  ✅ Saved → {SCRIPT_JSON.name}")
 
